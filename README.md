@@ -1,5 +1,5 @@
 # Custom ZSH theme
-Inspired by kolo's there (part of official ZSH themes). Differences:
+Inspired by kolo theme (from official ZSH themes). Differences:
 - changed colors
 - added timestamp to the right side of the prompt
 - don't show ● mark for untracked files in version controlled paths
