@@ -11,7 +11,7 @@ theme_precmd () {
 }
 
 setopt prompt_subst
-PROMPT='%B%F{blue}%c%B%F{blue}${vcs_info_msg_0_}%B%F{magenta} %{$reset_color%}%% '
+PROMPT='%B%F{blue}%c%B%F{blue}${vcs_info_msg_0_}%{$reset_color%}%% '
 RPROMPT='[%*]'
 
 autoload -U add-zsh-hook
